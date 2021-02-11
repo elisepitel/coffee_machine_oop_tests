@@ -10,6 +10,6 @@ Simulate coffee machine operations:
 - Return change
 - Keep track of money earned 
 - Deducts ingredients from the resources when a coffee is prepared
-- Can be turn off
+- Can be turned off
 
 
